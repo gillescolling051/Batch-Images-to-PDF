@@ -20,7 +20,7 @@ Supported Formats: ".jpg",".jpeg",".png",".gif",".cbr",".rar",".cbz",".zip"
 
 ### Define Volumes:
 
--Define the manga/comic volumes. 
+- Define the manga/comic volumes. 
  Example: Volume 1 contains 10 Chapters, Volume 2 contains 5 Chapters
  Input: 1-10-15
  renames your folders containing chapters by adding "Vol. XX" to folder names
@@ -28,7 +28,7 @@ Supported Formats: ".jpg",".jpeg",".png",".gif",".cbr",".rar",".cbz",".zip"
  
 ### Create Volume SubFolders:
 
--Move volume folders into seperate folders named XX. 
+- Move volume folders into seperate folders named XX. 
  Example: "Vol. 1 Chapter 1" "Vol. 1 Chapter 2" => 1, "Vol. 2 Chapter 3" "Vol. 2 Chapter 4" => 2 ... 
  Can only create subfolder when foldername contains "Vol", "vol", "VOL", "Volumes", "volumes", "VOLUMES" followed by volume number
 
