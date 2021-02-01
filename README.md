@@ -36,7 +36,7 @@ Supported Formats: ".jpg",".jpeg",".png",".gif",".cbr",".rar",".cbz",".zip"
 
  Example: "Vol. 1 Chapter 1" "Vol. 1 Chapter 2" => 1, "Vol. 2 Chapter 3" "Vol. 2 Chapter 4" => 2 ... 
  
- Can only create subfolder when foldername contains "Vol", "vol", "VOL", "Volumes", "volumes", "VOLUMES" followed by volume number
+ Can only create subfolders when foldername contains "Vol", "vol", "VOL", "Volumes", "volumes", "VOLUMES" followed by volume number
 
 ### Combine everything to one PDF:
 
